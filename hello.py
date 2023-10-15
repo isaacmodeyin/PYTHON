@@ -1,4 +1,4 @@
-u = "ISAAC\t"
+u = "ISAAC\n"
 v = "is a Programmer"
 
 concat = u + v
