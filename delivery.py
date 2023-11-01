@@ -22,3 +22,6 @@ package_value = 100
 total_cost = calculate_shipping_cost(package_value)
 
 print(f"The total cost to ship the package is ${total_cost:.2f}.")
+
+# run this code with python delivery.py in your terminal
+# you can also use F5 key
